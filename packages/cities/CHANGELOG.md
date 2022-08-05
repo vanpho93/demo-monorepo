@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vanpho93/demo-monorepo/compare/cities-v1.0.0...cities-v1.1.0) (2022-08-05)
+
+
+### Features
+
+* **cities:** remove San Diego ([200ed00](https://github.com/vanpho93/demo-monorepo/commit/200ed00dc058b460a143de8469c122e8460800dc))
+
 # 1.0.0 (2022-08-05)
 
 
