@@ -8,6 +8,6 @@ const CITIES = [
     name: "Saigon", country: COUNTRIES.VN,
     name: "Manila", country: COUNTRIES.PL,
   }
-]
+];
 
 module.exports = { CITIES };
