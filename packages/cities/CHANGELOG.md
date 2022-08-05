@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/vanpho93/demo-monorepo/compare/cities-v1.1.0...cities-v1.2.0) (2022-08-05)
+
+
+### Features
+
+* remove other city ([985e967](https://github.com/vanpho93/demo-monorepo/commit/985e96770f1dd5984d451597cd1a52bf90ae61e0))
+
 # [1.1.0](https://github.com/vanpho93/demo-monorepo/compare/cities-v1.0.0...cities-v1.1.0) (2022-08-05)
 
 
