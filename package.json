@@ -2,7 +2,9 @@
   "name": "demo-monorepo",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "release": "npx nx affected --target release --all"
+  },
   "private": true,
   "dependencies": {
     "semantic-release-npm-github-publish": "^1.5.1",
