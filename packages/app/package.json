@@ -1,5 +1,5 @@
 {
-  "name": "@brian-demo-0508/app",
+  "name": "@brian-demo-050822/app",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "dev": "node index.js"
   },
   "dependencies": {
-    "@brian-demo-0508/countries": "*",
-    "@brian-demo-0508/cities": "*"
+    "@brian-demo-050822/countries": "*",
+    "@brian-demo-050822/cities": "*"
   },
   "author": "",
   "license": "ISC"
