@@ -6,7 +6,6 @@ const CITIES = [
     name: "Los Angeles", country: COUNTRIES.US,
     name: "Hanoi", country: COUNTRIES.VN,
     name: "Saigon", country: COUNTRIES.VN,
-    name: "Da Nang", country: COUNTRIES.VN,
     name: "Manila", country: COUNTRIES.PL,
   }
 ]
