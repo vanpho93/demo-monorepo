@@ -1,0 +1,16 @@
+{
+  "name": "@brian-demo-0508/app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@brian-demo-0508/countries": "*",
+    "@brian-demo-0508/cities": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@brian-demo-0508/cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanpho93/demo-monorepo.git",
+    "directory": "packages/cities"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "author": "",
+  "license": "ISC"
+}

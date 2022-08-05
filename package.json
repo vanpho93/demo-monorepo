@@ -1,0 +1,30 @@
+{
+  "name": "demo-monorepo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "semantic-release-npm-github-publish": "^1.5.1",
+    "semantic-release-plus": "^20.0.0"
+  },
+  "devDependencies": {
+    "nx": "14.5.4",
+    "@nrwl/cli": "14.5.4",
+    "@nrwl/workspace": "14.5.4",
+    "typescript": "~4.7.2",
+    "prettier": "^2.6.2"
+  },
+  "workspaces": [
+    "packages/**"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanpho93/demo-monorepo.git"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
