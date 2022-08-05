@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vanpho93/demo-monorepo/compare/countries-v1.0.1...countries-v1.1.0) (2022-08-05)
+
+
+### Features
+
+* add Korea ([79de53d](https://github.com/vanpho93/demo-monorepo/commit/79de53d7df4f69bac4436327aa590d891b1715dd))
+
 ## [1.0.1](https://github.com/vanpho93/demo-monorepo/compare/countries-v1.0.0...countries-v1.0.1) (2022-08-05)
 
 
