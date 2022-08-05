@@ -7,7 +7,6 @@ const CITIES = [
     name: "Hanoi", country: COUNTRIES.VN,
     name: "Saigon", country: COUNTRIES.VN,
     name: "Da Nang", country: COUNTRIES.VN,
-    name: "Hai Phong", country: COUNTRIES.VN,
     name: "Manila", country: COUNTRIES.PL,
   }
 ]
