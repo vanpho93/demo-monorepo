@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@brian-demo-050822/countries": "*",
-    "@brian-demo-050822/cities": "*"
+    "@brian-demo-050822/cities": "1.2.0"
   },
   "author": "",
   "license": "ISC"
